@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Andelison Colares 👋
 
 Sou um desenvolvedor focado em **Desenvolvimento Web Full Stack**. Adoro construir a ponte entre interfaces bonitas e sistemas robustos e inteligentes.
 
@@ -24,4 +24,4 @@ Sou um desenvolvedor focado em **Desenvolvimento Web Full Stack**. Adoro constru
 
 ---
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevColares&show_icons=true&theme=dark)
