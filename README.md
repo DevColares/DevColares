@@ -20,7 +20,7 @@ Sou um desenvolvedor focado em **Desenvolvimento Web Full Stack**. Adoro constru
 
 ---
 
-![Minhas Stacks](https://skillicons.dev/icons?i=html,css,js,py,django,git,postgres)
+![Minhas Stacks](https://skillicons.dev/icons?i=html,css,js,py,django,github,postgres,docker,mysql)
 
 ---
 ### 📊 Estatísticas
