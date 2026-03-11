@@ -6,7 +6,7 @@ Sou um desenvolvedor focado em **Desenvolvimento Web Full Stack**. Adoro constru
 - 🌱 Aprofundando meus conhecimentos em **JavaScript e Integração de APIs**
 - 🎨 Transformando ideias em realidade com **HTML5 & CSS3**
 - 💬 Pergunte-me sobre: **Desenvolvimento Web e Lógica de Programação**
-- 📫 Como me encontrar: [Seu LinkedIn ou E-mail]
+- 📫 Como me encontrar: **www.linkedin.com/in/devcolares**
 
 ---
 
