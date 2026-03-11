@@ -1,8 +1,27 @@
-Olá, eu sou o Andelison Colares
+# Olá, eu sou o [Seu Nome] 👋
 
-Desenvolvedor focado em criar soluções eficientes e escaláveis. Atualmente explorando tecnologias voltadas para **Backend Engineering & Distributed Systems**.
+Sou um desenvolvedor focado em **Desenvolvimento Web Full Stack**. Adoro construir a ponte entre interfaces bonitas e sistemas robustos e inteligentes.
 
-- 🔭 Atualmente trabalhando em **ReSolution**
-- 🌱 Aprendendo **HTML, CSS, JAVASCRIPT, PYTHON, DJANGO**
+- 🔭 Atualmente trabalhando em projetos com **Django & Python**
+- 🌱 Aprofundando meus conhecimentos em **JavaScript e Integração de APIs**
+- 🎨 Transformando ideias em realidade com **HTML5 & CSS3**
+- 💬 Pergunte-me sobre: **Desenvolvimento Web e Lógica de Programação**
+- 📫 Como me encontrar: [Seu LinkedIn ou E-mail]
+
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,django,github)](https://skillicons.dev)
+
+### 🛠️ Minha Stack Tecnológica
+
+| Frontend | Backend | Ferramentas |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 | Python | Git / GitHub |
+| JavaScript (ES6+) | Django Framework | PostgreSQL / SQLite |
+| Design Responsivo | REST APIs | Docker (estudando) |
+
+---
+
+![Minhas Stacks](https://skillicons.dev/icons?i=html,css,js,py,django,git,postgres)
+
+---
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
