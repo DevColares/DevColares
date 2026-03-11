@@ -15,12 +15,12 @@ Sou um desenvolvedor focado em **Desenvolvimento Web Full Stack**. Adoro constru
 | Frontend | Backend | Ferramentas |
 | :--- | :--- | :--- |
 | HTML5 / CSS3 | Python | Git / GitHub |
-| JavaScript (ES6+) | Django Framework | PostgreSQL / SQLite |
+| JavaScript (ES6+) | Django Framework | PostgreSQL / MySQL / SQLite |
 | Design Responsivo | REST APIs | Docker (estudando) |
 
 ---
 
-![Minhas Stacks](https://skillicons.dev/icons?i=html,css,js,py,django,github,postgres,docker,mysql)
+![Minhas Stacks](https://skillicons.dev/icons?i=html,css,js,py,django,git,github,postgres,docker,mysql)
 
 ---
 ### 📊 Estatísticas
