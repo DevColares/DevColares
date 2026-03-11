@@ -5,5 +5,4 @@ Desenvolvedor focado em criar soluções eficientes e escaláveis. Atualmente ex
 - 🔭 Atualmente trabalhando em **ReSlution**
 - 🌱 Aprendendo **Python, Django**
 ---
-![Suas Stacks](https://skillicons.dev/icons?i=js,react,nodejs,docker)
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,django,github)](https://skillicons.dev)
